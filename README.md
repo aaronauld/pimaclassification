@@ -15,5 +15,5 @@
 |                               | My1NN | My5NN | MyNB |
 |-------------------------------|-------|-------|------|
 | No feature selection          | 68.4  | **75.4**  | 75.3 |
-| Correlation Feature Selection | 68.2  | 75.1  |** 76.4** |
+| Correlation Feature Selection | 68.2  | 75.1  |**76.4** |
 
