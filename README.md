@@ -17,3 +17,8 @@
 | No feature selection          | 68.4  | **75.4**  | 75.3 |
 | Correlation Feature Selection | 68.2  | 75.1  |**76.4** |
 
+## Discussion
+
+- Lowest accuracy was ZeroR algorithm with 65.1% accuracy whilst highest was Support Vector Machine with feature selection at 76.7% accuracy
+- Feature selection, on average, produced accuracies marginally greater than no feature selection
+- In terms of using machine learning to improve understanding of factors related to diabetes, interpretable models such as Decision Trees should be of focus
