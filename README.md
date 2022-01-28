@@ -1,4 +1,5 @@
 # Pima Indian Diabetes Classification: Group Project Overview
+### In collaboration with @angusmangunay
 
 - Implemented K-Nearest Neighbours and Naive Bayes from scratch to predict presence of diabetes based on differing health measurements
 - Algorithms produced accuracy of ~75% for 5NN and Naive Bayes
